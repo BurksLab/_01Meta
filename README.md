@@ -12,7 +12,7 @@ Confidentiona repository used to contain overview documentation. Describes curre
  2. Alpha Scents (repo Y18_alphascents)
  3. Semios data (repo Y18_semios)
  4. Walnut-almond dispersal study
-    - Three regions: Parlier, Modesto, Oroville
+    - Three regions: Parlier, Modesto, and Oroville
     - Three sites per region
  5. MATT data folder 
 
