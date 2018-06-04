@@ -1,21 +1,3 @@
 # _01Meta
 
-Confidentiona repository used to contain overview documentation. Describes current projects in the lab and items of general interest. Done in a private repository rather than a web page or Wiki because there are some items we won't want to share with the world--yet.
-
- - This document last revised on: 2018-06-01
- - By: Chuck Burks
- 
-## Current studies (data files to be kept up to date)
- 1. ABC Lure trial (repo Y18_abc_lures)
-    - Site Vista Verde, one test in pistachio
-    - Site Kettleman, two tests in almond
- 2. Alpha Scents (repo Y18_alphascents)
- 3. Semios data (repo Y18_semios)
- 4. Walnut-almond dispersal study
-    - Three regions: Parlier, Modesto, and Oroville
-    - Three sites per region
- 5. MATT data folder 
-
-## Other repositories to watch
- 1. Y18_perez_mesos
- 2. Y18_now_sir_flt_cyl
+As of June 4, 2018, this document is largely a placeholder. It is necessary to pay Github to optain private repos, which are necessary for our work. Paying Github in a way that is mutually agreeable to Github and my organization has proven difficult, so for the time being our use of organization rather than individual accounts is limited.
